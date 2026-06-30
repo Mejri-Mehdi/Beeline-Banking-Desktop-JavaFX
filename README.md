@@ -449,4 +449,4 @@ To load database assets, import the SQL script located in:
 
 ---
 
-*Made with ❤️ by Mehdi Mejri*
+<p align="center"> <sub>Made with ❤️ by <a href="https://github.com/Mejri-Mehdi">Mejri Mehdi</a></sub> </p>
